@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="10dp"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="30dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_marginTop="10dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="24sp"
+            android:id="@+id/eventNameUser"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textSize="18sp"
+            android:layout_marginTop="60dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/eventTypeUser" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="100dp"
+            android:layout_height="30dp"
+            android:textSize="18sp"
+            android:paddingLeft="20dp"
+            android:id="@+id/eventDescriptionUser" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="140dp"
+            android:textSize="18sp"
+            android:paddingLeft="20dp"
+            android:id="@+id/eventLocationUser" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

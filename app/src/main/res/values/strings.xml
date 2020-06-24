@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">electronPlanner</string>
+    <string name="swl">Swipe Left for Admin</string>
+    <string name="swr">Swipe Right for User</string>
+    <string name="admin_page_name">ADD EVENT</string>
+    <array name="events">
+        <item>Webinar</item>
+        <item>Seminar</item>
+        <item>Blood Donation</item>
+        <item>Society Meet</item>
+    </array>
+</resources>

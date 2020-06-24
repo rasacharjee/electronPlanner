@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565211505996",
+    "firebase_url": "https://electronplanner-7fc1e.firebaseio.com",
+    "project_id": "electronplanner-7fc1e",
+    "storage_bucket": "electronplanner-7fc1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565211505996:android:a184edf9ea88901984dbe9",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.electronplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565211505996-60e3aqkntk6rmotamv0a0vkv3om64cdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGtSuHjRh_tgmjifkkiWnA55nkktBAxOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565211505996-60e3aqkntk6rmotamv0a0vkv3om64cdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
